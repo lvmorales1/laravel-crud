@@ -2,8 +2,8 @@
     <h1>CRUD em Laravel</h1>
 </div>
 
-<div align="center">Primeiro CRUD utilizando o framework PHP, Laravel.</div>
+<div align="center">Primeiro CRUD utilizando o framework Laravel.</div>
 
 <h4>CRUD desenvolvido para estudo.</h4>
 
-<p>CRUD simples utilizando o framework PHP, Laravel e MySQL.</p>
+<p>CRUD simples utilizando o framework Laravel.</p>
