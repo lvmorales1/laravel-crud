@@ -6,4 +6,4 @@
 
 <h4>CRUD desenvolvido para estudo.</h4>
 
-<p>CRUD simples utilizando o framework Laravel.</p>
+<p>CRUD simples utilizando o framework Laravel, MySQL, Vue.js e Bootstrap.</p>
