@@ -7,3 +7,7 @@
 <h4>CRUD desenvolvido para estudo.</h4>
 
 <p>CRUD simples utilizando o framework Laravel, MySQL, Vue.js e Bootstrap.</p>
+
+<div align="center">
+    <img src="/Screenshot.png">
+</div>
