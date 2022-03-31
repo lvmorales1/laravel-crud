@@ -36,7 +36,11 @@
                                     <a href="usuarios/{{$u->id}}/edit" class="btn btn-info">Editar</button>
                                 </td>
                                 <td>
-                                    <button class="btn btn-danger">Deletar</button>
+                                    <form action="usuarios/delete/{{$u->id}}" method="POST">
+                                        @csrf
+                                        @method('delete')
+                                        <button class="btn btn-danger">Deletar</button>
+                                    </form>
                                 </td>
                             </tr>
                      
